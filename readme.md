@@ -4,4 +4,5 @@ STAR
 
 Repositório teste para o curso GIT
 
-![./star.png](estrela)
+![estrela](star.png)
+

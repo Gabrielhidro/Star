@@ -1,8 +1,7 @@
 STAR
 
 # Star Repo
-
-Repositório teste para o curso GIT
+Repositório GIT
 
 ![estrela](star.png)
 
